@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite TestNG x Selenium">
+    <test name="Firt My Test1">
+        <classes>
+            <class name="com.belajartestng.HookTest" />
+            <class name="com.belajartestng.authentication.SignInTestAdmin" />
+<!--            <class name="com.belajartestng.CalculatorTest" />-->
+
+        </classes>
+    </test>
+
+<!--    <test name="Firt My Test2">-->
+<!--        <classes>-->
+<!--            <class name="com.belajartestng.Demo2Test" />-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
